@@ -1,0 +1,15 @@
+#error{
+        display:inline-block;
+        color:red;  
+        position: relative;
+        bottom: 7px;
+        
+
+}
+#error ul {
+    list-style: none;
+}
+*{
+    background-color: lavender;
+}
+ 
